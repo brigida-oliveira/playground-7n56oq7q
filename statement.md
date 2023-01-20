@@ -1,6 +1,6 @@
 # Exercícios de Kotlin 
 
-1. Você consegue ler o código deste programa e adivinhar qual vai ser a saída (sem precisar executar no Playground Kotlin)?
+## 1. Você consegue ler o código deste programa e adivinhar qual vai ser a saída (sem precisar executar no Playground Kotlin)?
 
 ```kotlin
 fun main(args: Array<String>) {
@@ -20,7 +20,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-2. Crie um programa que gere as mensagens abaixo:
+## 2. Crie um programa que gere as mensagens abaixo:
 
 ```
 I'm
@@ -34,7 +34,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-3. Rode esse programa.
+## 3. Rode esse programa.
 
 ```kotlin
 fun main(args: Array<String>) {
@@ -62,10 +62,9 @@ fun main(args: Array<String>) {
 }
 ```
 
-Para praticar a solução de problemas, corrija os erros nos exercícios a seguir. 
-Ao tentar executar o programa, você vai ver uma mensagem de erro.
+***Para praticar a solução de problemas, corrija os erros nos exercícios a seguir. Ao tentar executar o programa, você vai ver uma mensagem de erro.***
 
-4. Corrija o erro do programa para que ele gere a saída esperada.
+## 4. Corrija o erro do programa para que ele gere a saída esperada.
 
 ```kotlin
 fun main(args: Array<String>) {
@@ -84,7 +83,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-5. Corrija o erro do programa para que ele gere a saída esperada.
+## 5. Corrija o erro do programa para que ele gere a saída esperada.
 
 ```kotlin
 fun main(args: Array<String>) {
@@ -104,7 +103,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-6. Corrija o erro do programa para que ele gere a saída esperada.
+## 6. Corrija o erro do programa para que ele gere a saída esperada.
 
 ```kotlin
 fun main(args: Array<String>) {
@@ -126,7 +125,7 @@ fun main(args: Array<String>) {
 }
 ```
 
-7. Corrija o erro do programa para que ele gere a saída esperada.
+## 7. Corrija o erro do programa para que ele gere a saída esperada.
 
 ```kotlin
 fun main(args: Array<String>) (
